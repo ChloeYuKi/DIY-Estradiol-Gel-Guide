@@ -12,7 +12,7 @@
 
 ***受限本人家庭和经济状况，笔者已于24年12月暂停进行激素追踪。***
 
-[AIVersion]("https://mcec.starmoe.wiki/AI_v1")
+[AIVersion](https://mcec.starmoe.wiki/AI_v1)
 
 # 雌二醇凝胶自制方法
 
